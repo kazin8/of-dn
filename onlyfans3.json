@@ -1,0 +1,10 @@
+{
+  "app-token": "33d57ade8c02dbc5a333db99ff9ae26a",
+  "static_param": "YDnsHq17KuM0e44KpcdCJx8S38iK2stn",
+  "prefix": "24752",
+  "suffix": "66635eda",
+  "checksum_constant": -220,
+  "checksum_indexes": [0,0,2,3,3,9,9,9,10,12,13,16,18,18,18,19,21,21,22,22,23,23,26,27,28,29,29,30,30,33,33,35],
+  "remove_headers": ["user-id"],
+  "format": "24752:{}:{:x}:66635eda"
+}
